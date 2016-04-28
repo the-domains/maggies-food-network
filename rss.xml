@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[maggie's  Food Network]]></title>
+        <description><![CDATA[maggie's  Food Network]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Apr 2016 00:27:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pineapple Strawberry Mojito - Mom On Timeout]]></title>
+            <description><![CDATA[<article><h1>Pineapple Strawberry Mojito - Mom On Timeout</h1><p>Perfectly cool, sweet, and SO refreshing, this fruit-infused Pineapple Strawberry Mojito cocktail has it all! I can hardly believe that Cinco de Mayo is coming up in less than TWO weeks! Cinco de Mayo is my unofficial kick-off to summer. Here in Sacramento, it's already warm if not HOT.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42c67af0fa57531f1184137d1cc97588e1568a52.jpg"></article>]]></description>
+            <link>http://www.momontimeout.com/2015/04/pineapple-strawberry-mojito-recipe/#comment-87979</link>
+            <guid isPermaLink="false">08281704-123e-45ea-b1ee-e8a13cb84cb1</guid>
+            <pubDate>Thu, 28 Apr 2016 00:27:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
